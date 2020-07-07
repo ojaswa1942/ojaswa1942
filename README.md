@@ -2,7 +2,7 @@
 
 An enthusiastic engineer-to-be driven by curiosity and ambition. Currently, you can find me surfing the high tides of Web Development and concurrently drowning in the depth of Kubernetes.
 
-##### Summary:
+#### Summary:
 - Open for 2021 summer internship and other technology shaping opportunities!
 - Pursuing Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
 - Full stack Web Dev and DevOps Engineer
