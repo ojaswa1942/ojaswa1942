@@ -1,6 +1,6 @@
 ## I'm Ojaswa 👋
 
-An enthusiastic engineer driven by curiosity and ambition. Currently, you can find me surfing the high tides of Development and concurrently drowning in the depth of Kubernetes.
+An enthusiastic engineer driven by curiosity and ambition. Currently, you can find me surfing the high tides of development and concurrently drowning in the depth of Kubernetes.
 
 #### Summary:
 - Open to technology shaping opportunities!
