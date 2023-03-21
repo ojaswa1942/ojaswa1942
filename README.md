@@ -4,14 +4,14 @@ An enthusiastic engineer driven by curiosity and ambition. Currently, you can fi
 
 #### Summary:
 - Open to technology shaping opportunities!
-- Pursuing Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
-- Full stack Web Dev and DevOps Engineer
+- Masters in Information Technology (2017-2022, B.Tech + M.Tech) from IIIT Gwalior 
+- Fullstack Developer, Cloud Engineer, Security Enthusiast, Open Source Maintainer & Contributor
 - Find my [resume here](https://drive.google.com/file/d/1Yuvlj7PVC-vTc6wUh-FfIW_LIBrN9Wsg/view?usp=sharing)
 
 ### Get in touch
 - Say hi at [hello@ojaswa.com](mailto:hello@ojaswa.com) or [ojaswa1942@gmail.com](mailto:ojaswa1942@gmail.com)
 - Connect on [LinkedIn](https://linkedin.com/in/ojaswa23)
-- Portfolio website: [ojaswa.com](https://ojaswa.com)
+<!-- - Portfolio website: [ojaswa.com](https://ojaswa.com) -->
 
 <!--
 **ojaswa1942/ojaswa1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
